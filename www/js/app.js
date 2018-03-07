@@ -2485,7 +2485,7 @@ function callAjax(action,params)
 			{					
 											
 				case "search":
-				  //$(".result-msg").text("No Restaurant found");
+				  //$(".result-msg").text("we deliver 5 miles radius only , above 5 miles use pickup order on left side menu");
 				  $(".result-msg").text(data.msg);				  
 				  toastMsg(data.msg);
 				  createElement('restaurant-results','');
