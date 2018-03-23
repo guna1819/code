@@ -52,7 +52,7 @@
     <platform name="android" />    
     <platform name="ios" /> 
     		    
-	<preference name="AutoHideSplashScreen" value="false" />  	
+	<preference name="AutoHideSplashScreen" value="true" />  	
     <preference name="SplashScreenDelay" value="10000" />    
     <preference name="fullscreen" value="false" />
     <preference name="android-minSdkVersion" value="16" />     
