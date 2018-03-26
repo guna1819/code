@@ -53,10 +53,10 @@
     <platform name="ios" /> 
     		    
 	<preference name="AutoHideSplashScreen" value="true" />  	
-    <preference name="SplashScreenDelay" value="10000" />    
+    <preference name="SplashScreenDelay" value="5000" />    
     <preference name="fullscreen" value="false" />
     <preference name="android-minSdkVersion" value="16" />     
-    <preference name="ShowSplashScreenSpinner" value="false" />	   
+    <preference name="ShowSplashScreenSpinner" value="true" />	   
     
     <access origin="*" />
     <access origin="tel:*" launch-external="yes" />
